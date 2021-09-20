@@ -1,0 +1,7 @@
+total = 11
+True variables: 5 7 8 9 11 12 17 53 54 57 61 
+----------
+==========
+	|--STATE Creating code file
+	|--STATE Executing minizinc solver
+	|--STATE End of program

@@ -1,0 +1,4 @@
+
+NO of unsatified: 2
+NO of true vars: 4
+45 78 94 164 

@@ -1,0 +1,7 @@
+total = 8
+True variables: 3 9 25 34 37 39 40 41 
+----------
+==========
+	|--STATE Creating code file
+	|--STATE Executing minizinc solver
+	|--STATE End of program

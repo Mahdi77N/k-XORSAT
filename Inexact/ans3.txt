@@ -1,0 +1,4 @@
+
+NO of unsatified: 1
+NO of true vars: 1
+41 
