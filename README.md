@@ -4,7 +4,7 @@ Implementing WalkSat to solve k-XORSAT problem, and also, using MiniZinc to solv
 
 ## Overview
 
-k-XORSAT is a type of CSPs. In k-SAT, the constraints require the OR of k Boolean variables or their negations to be TRUE, whereas in k-XORSAT, the XOR of the variables or their negations must equal zero.
+k-XORSAT is a type of CSPs. In k-XORSAT, the constraints oblige the XOR of k Boolean variables, or their negations must equal zero. It is somehow similar to k-SAT, where the OR of k Boolean variables must be True (Abbe and Montanari 2015).
 
 In this project, I have implemented WalkSAT to solve the problem for a set of variables as an inexact approach.
 
