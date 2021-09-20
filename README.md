@@ -1,6 +1,6 @@
 # k-XORSAT
 
-Implementing some filters from scratch to reduce the salt-and-pepper noise in noisy images. 
+Implementing WalkSat to solve k-XORSAT problem, and also, using MiniZinc to solve this problem.
 
 ## Overview
 
